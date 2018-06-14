@@ -21,6 +21,6 @@ Project Ember is a third-person sword fighting game based in a cyberpunk style w
   * Parkour
   * Grapple mechanics
   * Teleportation
-
+  
 
 ![Alt Text](https://github.com/Tamiyo/Project-Ember/blob/master/src/anims3.PNG) ![Alt Text](https://github.com/Tamiyo/Project-Ember/blob/master/src/anims4.PNG)
