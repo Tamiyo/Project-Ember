@@ -1,4 +1,4 @@
-### Project-Ember
+## Project-Ember
 Project Ember's development has since been discontinued as the team has disbanded. However the project repo hold 5 years of committed work of programmers / animators working together on the same project to develop a videogame
 
 
