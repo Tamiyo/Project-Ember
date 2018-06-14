@@ -30,6 +30,7 @@ Project Ember is a third-person sword fighting game based in a cyberpunk style w
 <br/>
 Ember was a very ambitious project. A small group of students who have never even attempted to make a game before? Easy! There were many struggles that we had to go through during the development process. We would hit blockers where we would depend on other teammates assets to continue our stories, however since we worked on the game sparingly that could mean huge amounts of time not being put into development.
 <br/>
+<br/>
 **Editor's Note: Kudos to our animator, the quality of the animations were very solid and he put a lot of time into them even though they were time consuming to wait for :)**
 <br/>
 <br/>
