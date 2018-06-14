@@ -21,16 +21,20 @@ Project Ember is a third-person sword fighting game based in a cyberpunk style w
   * Parkour
   * Grapple mechanics
   * Teleportation
-  
+<br/>
 
 ## The Problems
 
 ![Alt Text](https://github.com/Tamiyo/Project-Ember/blob/master/src/anims3.PNG) 
-
+<br/>
 Ember was a very ambitious project. A small group of students who have never even attempted to make a game before? Easy! There were many struggles that we had to go through during the development process. We would hit blockers where we would depend on other teammates assets to continue our stories, however since we worked on the game sparingly that could mean huge amounts of time not being put into development. Kudos to our animator, the quality of the animations were very solid and he put a lot of time into them. 
 <br/>
 <br/>
 Some other issues that persisted were the lack of 3D models / environmental resources at the t ime. None of the team members had professional 3D modeling skills, and without a budget it was hard to find people to perform the job or to buy models from third party sources
 
+## The Outcome
 
 ![Alt Text](https://github.com/Tamiyo/Project-Ember/blob/master/src/anims4.PNG)
+<br/>
+Overall, I'm very proud of the work done in Ember. It was a very positive experience for me as well as the other team members. Together we grew and gained team development and source control experience. I hope to one day revist this project and finish it to completion; there are many valuable open source resources out there currently that could fill in the gaps that we had during development.
+
