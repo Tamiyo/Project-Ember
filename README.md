@@ -5,4 +5,4 @@ Project Ember's development has since been discontinued as the team has disbande
 ***PROJECT_EMBER IS CURRENTLY BEING HOSTED @ https://bitbucket.org/emberproject/project-ember-ue4***
 
 
-![Alt Text](https://github.com/Tamiyo/Project-Ember/blob/master/src/anims.gif)
+![Alt Text](https://github.com/Tamiyo/Project-Ember/blob/master/src/anims2.gif)
