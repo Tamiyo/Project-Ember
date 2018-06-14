@@ -36,6 +36,7 @@ Ember was a very ambitious project. A small group of students who have never eve
 <br/>
 Some other issues that persisted were the lack of 3D models / environmental resources. None of the team members had professional 3D modeling skills, and without a budget it was hard to find people to perform the job or to buy models from third party sources
 <br/>
+<br/>
 We also had some code efficiency issues due to our inexperience with computer science logic that could have made a few processes easier to overcome, and perhaps have helped us scale some of the obstacles we encountered
 
 ## The Outcome
